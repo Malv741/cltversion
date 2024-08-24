@@ -1,0 +1,29 @@
+.titulo {
+    text-align: center;
+    font-family: "Montserrat";
+}
+.secaoControleDeVersao, .secaoControleDeMudancas, .secaoIntegracaoContinua {
+    margin-left: auto;
+    margin-right: auto;
+    background-color: wheat;
+    border: 5px solid black;
+    border-radius: 15px;
+    width: 55rem;
+    height: 10rem;
+    padding: 2rem;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-bottom: 2rem;
+}
+.tituloControleDeVersao, .tituloControleDeMudancas, .tituloIntegracaoContinua {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 600;
+    font-size: 2rem;
+}
+
+.textoControleDeVersao, .textoControleDeMudancas, .textoIntegracaoContinua {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 700;
+}
