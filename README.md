@@ -1,4 +1,4 @@
-#ATENÇÂO
+**#ATENÇÂO**
 
 Nesse trabalho foram utilizados duas branchs, onde na branch "main" ficaram os arquivos principais, sem explicação de cada parte do código.
 E logo na branch de "DescriçãoDoCódigo" estão presentes os arquivos com comentários sobre as funcionalidades do site, sendo este o único diferencial.
